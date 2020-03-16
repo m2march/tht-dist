@@ -1,15 +1,15 @@
 [submodule "tht"]
 	path = tht
-	url = git@github.com:m2march/tht.git
+    url = https://github.com/m2march/tht.git
 [submodule "midi"]
 	path = midi
-	url = git@github.com:m2march/midi.git
+	url = https://github.com:m2march/midi.git
 [submodule "beatroot"]
 	path = beatroot
-	url = git@github.com:m2march/beatroot.git
+	url = https://github.com:m2march/beatroot.git
 [submodule "povel1985"]
 	path = povel1985
-	url = git@github.com:m2march/povel1985.git
+	url = https://github.com:m2march/povel1985.git
 [submodule "python-midi"]
 	path = python-midi
-	url = git@github.com:m2march/python-midi.git
+	url = https://github.com:m2march/python-midi.git
