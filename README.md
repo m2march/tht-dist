@@ -20,6 +20,26 @@ Perception: An Interdisciplinary Journal, 2(4), pp.411-440.
 
 ## Installation
 
+### Dependencies
+
+**THT** require the following non-python dependencies:
+
+#### Java
+
+Java is required to compile _Beatroot_. Java can be installed in Ubuntu as:
+
+    > apt install openjdk-8-jdk openjdk-8-jre
+
+
+#### Swig
+
+Swig is require by `python-midi`. It can be installed in Ubuntu as:
+
+    > apt install swig
+
+
+### Install Steps
+
 All 5 submodules contain `setup.py` scripts to install with `setuptools`.
 The `install.sh` bash script clones each submodule and then installs them all
 using _pip_.
