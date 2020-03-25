@@ -3,13 +3,13 @@
     url = https://github.com/m2march/tht.git
 [submodule "midi"]
 	path = midi
-	url = https://github.com:m2march/midi.git
+	url = https://github.com/m2march/midi.git
 [submodule "beatroot"]
 	path = beatroot
-	url = https://github.com:m2march/beatroot.git
+    url = https://github.com/m2march/beatroot.git
 [submodule "povel1985"]
 	path = povel1985
-	url = https://github.com:m2march/povel1985.git
+	url = https://github.com/m2march/povel1985.git
 [submodule "python-midi"]
 	path = python-midi
-	url = https://github.com:m2march/python-midi.git
+	url = https://github.com/m2march/python-midi.git
