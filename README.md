@@ -1,7 +1,7 @@
 # Distribution of the THT (Tactus Hypothesis Tracker) package and dependencies
 
 This repository is intended to install the **THT** model with its
-non-pip dependencies.
+non-pip dependencies. The **THT** model is presented in *Miguel M.A., Sigman M, Fernandez Slezak D (2020) From beat tracking to beat expectation: Cognitive-based beat tracking for capturing pulse clarity through time. PLOS ONE 15(11): e0242207. https://doi.org/10.1371/journal.pone.0242207*
 
 The following submodules are referenced here:
 
